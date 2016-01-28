@@ -1,14 +1,29 @@
+name: Damien Pascoe
+favicon: null
 layout_spectrum: 0.5019981
 typography_spectrum: 0.1298695
+title: Digital Portfolio
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7989894
-  lightness: 0.1263594
-  brandStrength: 0.01662617
-  rhythmicContrast: 0.5793356
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: Damien Pascoe
+  brandStrength: 0.01662617
+  lightness: 0.1263594
+  saturation: 0.7989894
+  rhythmicContrast: 0.5793356
+purpose: []
